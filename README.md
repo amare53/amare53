@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Aime Nzolo
 
-<!--
-**amare53/amare53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💼 About Me
+I'm a Full Stack Developer, I specialize in web and mobile development. Passionate about creating innovative solutions for businesses, I am also a development trainer, helping learners master many tools.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Languages**: JavaScript, TypeScript, CSS, HTML, PHP,Python
+- **Frameworks**: React, Angular, Symfony, Adonis
+- **Mobile Development**: React Native
+- **Templating**: Twig
+- **DataBase**: Mysql, SQLite, MongoDB, Postgres
+- **Project Management**: Team management, project tracking
+- **Tools**: Git, GitHub, Figma, ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me
+- Email: [aimengwe@gmail.com](mailto:aimengwe@gmail.com)
+- LinkedIn: [Aime Nzolo](https://www.linkedin.com/in/aime-nzolo-889023199)
+
+### 🚀 Looking Forward
+I am open to collaborations on innovative projects and always eager to discuss efficient digital solutions.
